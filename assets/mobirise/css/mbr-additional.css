@@ -7783,6 +7783,32 @@ body {
     width: 100% !important;
   }
 }
+.cid-qSgeDllzWf {
+  background: #ffffff;
+}
+.cid-qSgeDllzWf .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qSgeDllzWf .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qSgeDllzWf figcaption {
+  position: relative;
+}
+.cid-qSgeDllzWf figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qSgeDllzWf .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qSgeDllzWf DIV {
+  color: #232323;
+}
 .cid-qRw8eRmoi3 {
   padding-top: 45px;
   padding-bottom: 45px;
